@@ -1,2 +1,2 @@
 # PRO-C137-Student-Boilerplate
-Make sure to nmp install in the folder in the comand promte before running!
+Make sure to npm install in the folder in the comand promte before running!
