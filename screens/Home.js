@@ -19,7 +19,9 @@ export default class HomeScreen extends Component {
     this.state = {
       listData: [],
       imagePath: "",
-      url: " https://4180-24-185-230-62.ngrok.io",
+      url: `https://30b6-24-185-230-62.ngrok.io/planet?name=${this.props.getParam(
+        "planet_name"
+      )}`
     };
   }
 
